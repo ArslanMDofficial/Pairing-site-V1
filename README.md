@@ -77,16 +77,16 @@ const Gifted = GoodchildConnect({
 <details>
 <summary>MORE INFO</summary>
    
-<strong>NB:<strong/> This repo also generates session ID for all bots using gifted-baileys/whiskeysockets/baileys but with ***zlib*** comressor.
+<strong>NB:<strong/> This repo also generates session ID for all bots using goodchild-baileys/whiskeysockets/baileys but with ***zlib*** comressor.
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <br/>WEB - PAIR CODE FOR BOTS WITH GOODCHILD-BAILEYS
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/Goodchild63">
-    <img src="hhttps://files.catbox.moe/cf2hym.jpg" width="500">
+    <img src="> 𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳: https://files.catbox.moe/cf2hym.jpg" width="500">
      
 </a>
- <p align="center"><img src="https://profile-counter.glitch.me/{mauricegift}/count.svg" alt="Gifted:: Visitor's Count" /></p>
+ <p align="center"><img src="> 𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳: https://files.catbox.moe/cf2hym.jpg" alt="Goodchild:: Visitor's Count" /></p>
 
 </details>
 
@@ -122,4 +122,5 @@ const Gifted = GoodchildConnect({
 
 
    
+
 

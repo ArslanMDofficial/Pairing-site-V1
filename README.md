@@ -64,7 +64,7 @@ console.log('⏱️ Conneting Gifted Md ⏱️')
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
 var { version, isLatest } = await fetchLatestBaileysVersion()
 
-const Gifted = GoodchildConnect({
+const Goodchild = GoodchildConnect({
         version,
         logger: P({ level: 'silent' }),
         printQRInTerminal: !config.SESSION_ID, // Continue your functions......
@@ -92,9 +92,9 @@ const Gifted = GoodchildConnect({
 
 
 
-[`ℹ️Contact Owner`](https://api.giftedtech.co.ke/contact)
+[`ℹ️Contact Owner`](https://wa.me/255763755563)
  <br>
-<a href='https://github.com/mauricegift/gifted-session/fork' target="_blank">
+<a href='https://github.com/Goodchild63/goodchild-session/fork' target="_blank">
     <img alt='FORK REPO' src='https://img.shields.io/badge/-FORK REPO-black?style=for-the-badge&logo=github&logoColor=white'/>
 </a>
 
@@ -103,7 +103,7 @@ const Gifted = GoodchildConnect({
 <details>
 <summary>DEPLOYMENT</summary>
  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/mauricegift/gifted-session' target="_blank"><img alt='HEROKU DEPLOY' src='https://img.shields.io/badge/-HEROKU DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Goodchild63/goodchild-session' target="_blank"><img alt='HEROKU DEPLOY' src='https://img.shields.io/badge/-HEROKU DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
  <br>
 <a href='https://dashboard.render.com' target="_blank">
     <img alt='DEPLOY TO RENDER' src='https://img.shields.io/badge/-DEPLOY TO RENDER-black?style=for-the-badge&logo=render&logoColor=white'/>
@@ -115,12 +115,13 @@ const Gifted = GoodchildConnect({
 
 </details>
 
-[`HERE'S AN EXAMPLE OUTPUT`](https://session.goodchild.co.tz)
+[`HERE'S AN EXAMPLE OUTPUT`](https://wa.me/255763755563)
 # `Owner`
 
- <a href="https://github.com/Goodchild"><img src="https://github.com/mauricegift.png" width="250" height="250" alt="Goodchild Tech"/></a>
+ <a href="https://github.com/Goodchild"><img src="> 𝙶𝙾𝙾𝙳𝙲𝙷𝙸𝙻𝙳: https://files.catbox.moe/cf2hym.jpg" width="250" height="250" alt="Goodchild Tech"/></a>
 
 
    
+
 
 

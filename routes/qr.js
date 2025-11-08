@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
                             <!DOCTYPE html>
                             <html>
                             <head>
-                                <title>GOODCHILD-MD | QR CODE</title>
+                                <title>ARSLAN-MD | QR CODE</title>
                                 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
                                 <style>
                                     body {
@@ -162,7 +162,7 @@ router.get('/', async (req, res) => {
                             </head>
                             <body>
                                 <div class="container">
-                                    <h1>GOODCHILDD QR CODE</h1>
+                                    <h1>ARSLAN-MD QR CODE</h1>
                                     <div class="qr-container">
                                         <div class="qr-code pulse">
                                             <img src="${qrImage}" alt="QR Code"/>
@@ -232,7 +232,7 @@ router.get('/', async (req, res) => {
                         let b64data = compressedData.toString('base64');
 
                             const Sess = await Gifted.sendMessage(Gifted.user.id, { 
-                            text: 'Goodchild~' + b64data
+                            text: 'ARSLAN-MD~' + b64data
                         });
 
                         let GOODCHILD_TEXT = `
@@ -240,10 +240,10 @@ router.get('/', async (req, res) => {
 
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥: _youtube.com/@giftedtechnexus_
-║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/255792375563_
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Goodchild63/GOODCHILD-XMD_
-║❒ 𝐖𝐚Group: https://chat.whatsapp.com/BtSKokkIC6VA2nYv71qdoQ?mode=wwt_
+║❒ *𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥*: _youtube.com/@arslanmdofficial_
+║❒ *𝐎𝐰𝐧𝐞𝐫*: _https://wa.me/923237045919
+║❒ *𝐑𝐞𝐩𝐨*: _https://github.com/Arslan-MD/Arslan_MD_
+║❒ *𝐖𝐚Chennal*: https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306
 ║ 💜💜💜
 ╚══════════════╝ 
 
@@ -251,7 +251,7 @@ Use the Quoted Session ID to Deploy your Bot.
                         `;
 
                         const goodchildMess = {
-                            image: { url: 'https://files.catbox.moe/cf2hym.jpg' },
+                            image: { url: 'https://files.catbox.moe/a6chsf.jpg' },
                             caption: GOODCHILD_TEXT,
                             contextInfo: {
                                 mentionedJid: [Goodchild.user.id],
@@ -259,7 +259,7 @@ Use the Quoted Session ID to Deploy your Bot.
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363408839929349@newsletter',
-                                    newsletterName: "GOODXHILD-TECH",
+                                    newsletterName: "ARSLAN-TECH",
                                     serverMessageId: 143
                                 }
                             }
@@ -267,7 +267,7 @@ Use the Quoted Session ID to Deploy your Bot.
                         await Goodchild.sendMessage(Goodchildd.user.id, giftedMess, { quoted: Sess });
 
                         const goodchildAud = {
-                            audio: { url: 'https://files.giftedtech.web.id/audio/Tm7502728882089773829.mp3' },
+                            audio: { url: 'https://o.uguu.se/rFjCjGeu.mp3' },
                             mimetype: 'audio/mpeg',
                             ptt: true,
                             contextInfo: {
@@ -275,8 +275,8 @@ Use the Quoted Session ID to Deploy your Bot.
                                 forwardingScore: 5,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363408839929349@newsletter',
-                                    newsletterName: "GOODCHILD-TECH",
+                                    newsletterJid: '120363348739987203@newsletter',
+                                    newsletterName: "ARSLAN-TECH",
                                     serverMessageId: 143
                                 }
                             }

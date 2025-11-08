@@ -128,7 +128,7 @@ router.get('/', async (req, res) => {
                         while (sendAttempts < maxSendAttempts && !sessionSent) {
                             try {
                                 Sess = await Gifted.sendMessage(Gifted.user.id, {
-                                    text: 'Gifted~' + b64data
+                                    text: 'ARSLAN-MD~' + b64data
                                 });
                                 sessionSent = true;
                             } catch (sendError) {
@@ -152,10 +152,10 @@ router.get('/', async (req, res) => {
 
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥: _youtube.com/@giftedtechnexus_
-║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/255792375563_
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Goodchild63/GOODCHILD-XMD_
-║❒ 𝐖𝐚Group: _https://chat.whatsapp.com/BtSKokkIC6VA2nYv71qdoQ?mode=wwt_
+║❒ 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥: youtube.com/@arslanmdofficial
+║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/923237045919_
+║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Arslan-MD/Arslan_MD_
+║❒ 𝐖𝐚Group: _https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306_
 ║ 💜💜💜
 ╚══════════════╝ 
 
@@ -164,15 +164,15 @@ Use the Quoted Session ID to Deploy your Bot.
 
                         try {
                             const giftedMess = {
-                                image: { url: 'https://files.catbox.moe/cf2hym.jpg
+                                image: { url: 'https://files.catbox.moe/a6chsf.jpg
                                 caption: GOODCHILD_TEXT,
                                 contextInfo: {
                                     mentionedJid: [Gifted.user.id],
                                     forwardingScore: 5,
                                     isForwarded: true,
                                     forwardedNewsletterMessageInfo: {
-                                        newsletterJid: '120363408839929349@newsletter',
-                                        newsletterName: "GOODCHILD-TECH",
+                                        newsletterJid: '120363348739987203@newsletter',
+                                        newsletterName: "ARSLAN-TECH",
                                         serverMessageId: 143
                                     }
                                 }
@@ -180,7 +180,7 @@ Use the Quoted Session ID to Deploy your Bot.
                             await Gifted.sendMessage(Gifted.user.id, giftedMess, { quoted: Sess });
 
                             const giftedAud = {
-                                audio: { url: 'https://files.giftedtech.web.id/audio/Tm7502728882089773829.mp3' },
+                                audio: { url: 'https://o.uguu.se/rFjCjGeu.mp3' },
                                 mimetype: 'audio/mpeg',
                                 ptt: true,
                                 contextInfo: {
@@ -188,8 +188,8 @@ Use the Quoted Session ID to Deploy your Bot.
                                     forwardingScore: 5,
                                     isForwarded: true,
                                     forwardedNewsletterMessageInfo: {
-                                        newsletterJid: '120363408839929349@newsletter',
-                                        newsletterName: "GOODCHLD-TECH",
+                                        newsletterJid: '120363348739987203@newsletter',
+                                        newsletterName: "ARSLAN-TECH",
                                         serverMessageId: 143
                                     }
                                 }
